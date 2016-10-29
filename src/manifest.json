@@ -8,7 +8,11 @@
   "content_scripts": [
     {
       "matches": ["https://www.linkedin.com/*"],
-      "js": ["./main.js"]
+      "js": [
+        "./jquery-3.1.1.min.js",
+        "./main.js"
+      ],
+      "run_at": "document_idle"
     }
   ]
 }
