@@ -7,3 +7,12 @@ A Google Chrome browser extension that, once installed, will automatically expan
 # Installation
 
 Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/expand-linkedin-shared-co/gdjbadkajilhmhodajeominmhmldjljf).
+
+# Feedback
+
+If you encounter any problems or have any questions or suggestions, feel free to contact me through any of these methods:
+
+* [Chrome Web Store Support](https://chrome.google.com/webstore/detail/expand-linkedin-shared-co/gdjbadkajilhmhodajeominmhmldjljf/support)
+* [Github Issues](https://github.com/EvanGoss/Expand-LinkedIn-Connections/issues)
+* [evan.goss@gmail.com](evan.goss@gmail.com)
+* [@EvanMGoss](https://twitter.com/EvanMGoss) on Twitter
